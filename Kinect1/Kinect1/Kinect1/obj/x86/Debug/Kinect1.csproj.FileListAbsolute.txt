@@ -1,0 +1,19 @@
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Debug\Kinect1.exe
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Debug\Kinect1.pdb
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\Kinect1.csprojResolveAssemblyReference.cache
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\MainWindow.baml
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\App.g.cs
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\Kinect1_MarkupCompile.cache
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\Kinect1.g.resources
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\Kinect1.Properties.Resources.resources
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\Kinect1.csproj.GenerateResource.Cache
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\Kinect1.exe
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Debug\Kinect1.pdb
+C:\Users\Elian\Dropbox\Proyeks january 2014 - present\pasar seni\works\Kinect1\Kinect1\Kinect1\obj\x86\Debug\Kinect1.exe
+C:\Users\Elian\Dropbox\Proyeks january 2014 - present\pasar seni\works\Kinect1\Kinect1\Kinect1\obj\x86\Debug\Kinect1.pdb

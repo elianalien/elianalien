@@ -1,0 +1,17 @@
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Release\Kinect1.exe
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Release\Kinect1.pdb
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\Kinect1.csprojResolveAssemblyReference.cache
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\MainWindow.baml
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\MainWindow.g.cs
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\App.g.cs
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\Kinect1_MarkupCompile.cache
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\Kinect1.g.resources
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\Kinect1.Properties.Resources.resources
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\Kinect1.csproj.GenerateResource.Cache
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\Kinect1.exe
+C:\Users\rizkus\documents\visual studio 2010\Projects\Kinect1\Kinect1\obj\x86\Release\Kinect1.pdb

@@ -1,0 +1,53 @@
+﻿<Window x:Class="Kinect1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title=" " Height="750" Width="1200" xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" Closing="Window_Closing" Loaded="Window_Loaded" ResizeMode="NoResize" WindowState="Maximized" WindowStyle="None" Background="#FF0B0B0B" SizeToContent="Manual">
+    <Grid>
+        <Rectangle Height="720" HorizontalAlignment="Center" Margin="220,0,238,-9" Name="rectangle1" Stroke="White" VerticalAlignment="Center" Width="720" Fill="White" />
+        <my:KinectSensorChooser HorizontalAlignment="Center" Margin="0,0,0,0" Name="kinectSensorChooser1" VerticalAlignment="Center" Width="328" />
+        <Ellipse Fill="#FF131BFC" Height="161" HorizontalAlignment="Center" Margin="40,-165,0,0" Name="Player2" Stroke="White" VerticalAlignment="Center" Width="161" />
+        <Ellipse Fill="#FF13FC16" Height="161" HorizontalAlignment="Center" Margin="322,-12,0,0" Name="Player3" Stroke="White" VerticalAlignment="Center" Width="161" />
+        <Ellipse Fill="#FFF4FC13" Height="161" HorizontalAlignment="Center" Margin="623,436,394,114" Name="Player4" Stroke="White" VerticalAlignment="Center" Width="161" />
+        <Ellipse Fill="Red" Height="161" HorizontalAlignment="Center" Margin="220,261,797,289" Name="Player1" Stroke="White" VerticalAlignment="Center" Width="161" />
+        <Ellipse Fill="#FF131BFC" Height="148" HorizontalAlignment="Center" Margin="227,268,803,295" Name="Player1_blue" Stroke="Red" VerticalAlignment="Center" Width="148" />
+        <Ellipse Fill="#FF13FC16" Height="142" HorizontalAlignment="Center" Margin="230,271,806,298" Name="Player1_green" Stroke="#FF0319FF" VerticalAlignment="Center" Width="142" />
+        <Ellipse Fill="#FFF4FC13" Height="136" HorizontalAlignment="Center" Margin="233,274,809,301" Name="Player1_yellow" Stroke="#FF13FC16" VerticalAlignment="Center" Width="136" />
+        <Ellipse Fill="Red" Height="148" HorizontalAlignment="Center" Margin="535,200,495,363" Name="Player2_red" Stroke="#FF131BFC" VerticalAlignment="Center" Width="148" />
+        <Ellipse Fill="#FF13FC16" Height="142" HorizontalAlignment="Center" Margin="538,203,498,366" Name="Player2_green" Stroke="Red" VerticalAlignment="Center" Width="142" />
+        <Ellipse Fill="#FFF4FC13" Height="136" HorizontalAlignment="Center" Margin="541,206,501,369" Name="Player2_yellow" Stroke="#FF13FC16" VerticalAlignment="Center" Width="136" />
+        <Ellipse Fill="Red" Height="148" HorizontalAlignment="Center" Margin="675,276,355,287" Name="Player3_red" Stroke="#FF13FC16" VerticalAlignment="Center" Width="148" />
+        <Ellipse Fill="#FF131BFC" Height="142" HorizontalAlignment="Center" Margin="678,279,358,290" Name="Player3_blue" Stroke="Red" VerticalAlignment="Center" Width="142" />
+        <Ellipse Fill="#FFF4FC13" Height="136" HorizontalAlignment="Center" Margin="681,282,361,293" Name="Player3_yellow" Stroke="#FF131BFC" VerticalAlignment="Center" Width="136" />
+        <Ellipse Fill="Red" Height="148" HorizontalAlignment="Center" Margin="630,442,400,121" Name="Player4_red" Stroke="#FFF4FC13" VerticalAlignment="Center" Width="148" />
+        <Ellipse Fill="#FF131BFC" Height="142" HorizontalAlignment="Center" Margin="633,445,403,124" Name="Player4_blue" Stroke="Red" VerticalAlignment="Center" Width="142" />
+        <Ellipse Fill="#FF13FC16" Height="136" HorizontalAlignment="Center" Margin="636,448,406,127" Name="Player4_green" Stroke="#FF131BFC" VerticalAlignment="Center" Width="136" />
+        <Ellipse Fill="White" Height="130" HorizontalAlignment="Center" Margin="235,277,813,304" Name="Player1_white" Stroke="White" VerticalAlignment="Center" Width="130" />
+        <Ellipse Fill="White" Height="130" HorizontalAlignment="Center" Margin="544,210,504,371" Name="Player2_white" Stroke="White" VerticalAlignment="Center" Width="130" />
+        <Ellipse Fill="White" Height="130" HorizontalAlignment="Center" Margin="684,285,364,296" Name="Player3_white" Stroke="White" VerticalAlignment="Center" Width="130" />
+        <Ellipse Fill="White" Height="130" HorizontalAlignment="Center" Margin="639,451,409,130" Name="Player4_white" Stroke="White" VerticalAlignment="Center" Width="130" />
+        <Label Content="Player1" Height="28" HorizontalAlignment="Left" Margin="83,35,0,0" Name="Player1_pos" VerticalAlignment="Top" Foreground="White" />
+        <Label Content="X Pos" Height="28" HorizontalAlignment="Left" Margin="83,55,0,0" Name="Player1_pos_x" VerticalAlignment="Top" Foreground="White" />
+        <Label Content="Y Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,80,0,0" Name="Player1_pos_y" VerticalAlignment="Top" />
+        <Label Content="Z Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,104,0,0" Name="Player1_pos_z" VerticalAlignment="Top" />
+        <Label Content="Player2" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,147,0,0" Name="Player2_pos" VerticalAlignment="Top" />
+        <Label Content="X Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,167,0,0" Name="Player2_pos_x" VerticalAlignment="Top" />
+        <Label Content="Y Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,192,0,0" Name="Player2_pos_y" VerticalAlignment="Top" />
+        <Label Content="Z Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,216,0,0" Name="Player2_pos_z" VerticalAlignment="Top" />
+        <Label Content="Player3" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,253,0,0" Name="Player3_pos" VerticalAlignment="Top" />
+        <Label Content="X Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,273,0,0" Name="Player3_pos_x" VerticalAlignment="Top" />
+        <Label Content="Y Pos" Foreground="White" HorizontalAlignment="Left" Margin="83,298,0,385" Name="Player3_pos_y" />
+        <Label Content="Z Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,322,0,0" Name="Player3_pos_z" VerticalAlignment="Top" />
+        <Label Content="Player4" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,365,0,0" Name="Player4_pos" VerticalAlignment="Top" />
+        <Label Content="X Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,385,0,0" Name="Player4_pos_x" VerticalAlignment="Top" />
+        <Label Content="Y Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,410,0,0" Name="Player4_pos_y" VerticalAlignment="Top" />
+        <Label Content="Z Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,434,0,0" Name="Player4_pos_z" VerticalAlignment="Top" />
+        <Label Content="Player5" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,468,0,0" Name="Player5_pos" VerticalAlignment="Top" />
+        <Label Content="X Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,488,0,0" Name="Player5_pos_x" VerticalAlignment="Top" />
+        <Label Content="Y Pos" Foreground="White" HorizontalAlignment="Left" Margin="83,513,0,170" Name="Player5_pos_y" />
+        <Label Content="Z Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,537,0,0" Name="Player5_pos_z" VerticalAlignment="Top" />
+        <Label Content="Player6" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,580,0,0" Name="Player6_pos" VerticalAlignment="Top" />
+        <Label Content="X Pos" Foreground="White" HorizontalAlignment="Left" Margin="83,600,0,83" Name="Player6_pos_x" />
+        <Label Content="Y Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,625,0,0" Name="Player6_pos_y" VerticalAlignment="Top" />
+        <Label Content="Z Pos" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="83,649,0,0" Name="Player6_pos_z" VerticalAlignment="Top" />
+    </Grid>
+</Window>
